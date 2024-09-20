@@ -1,1 +1,1 @@
-printf('hi  welcome to jenkins');
+print('hi  welcome to jenkins')
