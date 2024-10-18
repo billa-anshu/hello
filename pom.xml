@@ -19,7 +19,7 @@
                         <configuration>
                             <mainClass>com.example.OpenHtml</mainClass>
                             <arguments>
-                                <argument>file:///C:\Users\CSE\Desktop\22011P0506\devops\register.html</argument>
+                                <argument>file:///register.html</argument>
                             </arguments>
                         </configuration>
                     </execution>
